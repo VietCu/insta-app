@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129003196230",
+    "project_id": "insta-app-ec2cb",
+    "storage_bucket": "insta-app-ec2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129003196230:android:31e2e2e8d29f9415611f47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhuAMVyOhYLyzP6Xe44wgLGi5VZkU8o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129003196230:android:88a29d9fe28a0e47611f47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhuAMVyOhYLyzP6Xe44wgLGi5VZkU8o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
